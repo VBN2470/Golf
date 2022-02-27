@@ -13,7 +13,7 @@ import './Main.css';
 
 const Main = () => {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <NavBar></NavBar>
             <div>
                 <Routes>
