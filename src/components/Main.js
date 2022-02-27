@@ -8,12 +8,12 @@ import Gallery from './Gallery/Gallery';
 import Contact from './Contact/Contact';
 import Membership from './Membership/Membership';
 import About from './About/About';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './Main.css';
 
 const Main = () => {
     return (
-        <Router basename='/Golf'>
+        <BrowserRouter basename='/Golf'>
             <NavBar></NavBar>
             <div>
                 <Routes>
@@ -26,7 +26,7 @@ const Main = () => {
                     <Route path="/membership" element={<Membership/>}/>
                 </Routes>
             </div>
-        </Router>
+        </BrowserRouter>
     );
 };
 
