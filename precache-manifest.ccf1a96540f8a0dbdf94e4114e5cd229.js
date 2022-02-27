@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72174b8e8bbf1fabc99d5b06da139f9f",
+    "revision": "de8f9e630fed9b005aff5abe75735cae",
     "url": "/Golf/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Golf/static/css/2.171a7357.chunk.css"
   },
   {
-    "revision": "5c5f841684a4b651f7cc",
+    "revision": "9f1c73e2646305b6983f",
     "url": "/Golf/static/css/main.725261cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Golf/static/js/2.bb6b39a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c5f841684a4b651f7cc",
-    "url": "/Golf/static/js/main.5821d9f7.chunk.js"
+    "revision": "9f1c73e2646305b6983f",
+    "url": "/Golf/static/js/main.25db0d36.chunk.js"
   },
   {
     "revision": "f907cc9b3a99b4fd61dd",
