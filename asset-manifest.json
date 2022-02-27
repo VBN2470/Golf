@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/golf/static/css/main.422f18b9.chunk.css",
+    "main.js": "/golf/static/js/main.7d480727.chunk.js",
+    "main.js.map": "/golf/static/js/main.7d480727.chunk.js.map",
+    "runtime-main.js": "/golf/static/js/runtime-main.2cb1606c.js",
+    "runtime-main.js.map": "/golf/static/js/runtime-main.2cb1606c.js.map",
+    "static/css/2.171a7357.chunk.css": "/golf/static/css/2.171a7357.chunk.css",
+    "static/js/2.11675d47.chunk.js": "/golf/static/js/2.11675d47.chunk.js",
+    "static/js/2.11675d47.chunk.js.map": "/golf/static/js/2.11675d47.chunk.js.map",
+    "index.html": "/golf/index.html",
+    "precache-manifest.6dd9384c199b3fc4b769dd0b4b8a30e7.js": "/golf/precache-manifest.6dd9384c199b3fc4b769dd0b4b8a30e7.js",
+    "service-worker.js": "/golf/service-worker.js",
+    "static/css/2.171a7357.chunk.css.map": "/golf/static/css/2.171a7357.chunk.css.map",
+    "static/css/main.422f18b9.chunk.css.map": "/golf/static/css/main.422f18b9.chunk.css.map",
+    "static/js/2.11675d47.chunk.js.LICENSE.txt": "/golf/static/js/2.11675d47.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/golf/static/media/Course_10.60ea48a5.jpg",
+    "static/media/Events.css": "/golf/static/media/Course_7.fa2a46f5.jpg",
+    "static/media/Intro.css": "/golf/static/media/Course_8.d4f1acc0.jpg",
+    "static/media/js.jpg": "/golf/static/media/js.9b0e152e.jpg",
+    "static/media/logo.png": "/golf/static/media/logo.a569e452.png",
+    "static/media/tee.PNG": "/golf/static/media/tee.0395e62c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb1606c.js",
+    "static/css/2.171a7357.chunk.css",
+    "static/js/2.11675d47.chunk.js",
+    "static/css/main.422f18b9.chunk.css",
+    "static/js/main.7d480727.chunk.js"
+  ]
+}
